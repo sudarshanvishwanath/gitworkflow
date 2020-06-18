@@ -1,0 +1,4 @@
+First file created in master 
+Next Create Development folder for merge local branch
+local branch need to merge devlopment branch 
+devlopment branch need to merge Remote master branch 
